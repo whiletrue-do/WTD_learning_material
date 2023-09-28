@@ -1,7 +1,7 @@
 ---
 layout: default
 title: linux & Mac
-parent: Installing python
+parent: Installing Python
 grand_parent: Setting up your environment
 nav_order: 1
 ---

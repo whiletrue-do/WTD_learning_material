@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Windows
-parent: Installing python
+parent: Installing Python
 grand_parent: Setting up your environment
 nav_order: 2
 ---
