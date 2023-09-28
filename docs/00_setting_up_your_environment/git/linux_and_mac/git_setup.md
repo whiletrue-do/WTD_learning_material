@@ -2,6 +2,8 @@
 layout: default
 title: linux & Mac
 parent: Installing git
+grand_parent: Setting up your environment
+nav_order: 1
 ---
 
 # Setting up git on Linux and Mac

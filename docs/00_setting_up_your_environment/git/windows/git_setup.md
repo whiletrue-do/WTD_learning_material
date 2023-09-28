@@ -2,6 +2,8 @@
 layout: default
 title: Windows
 parent: Installing git
+grand_parent: Setting up your environment
+nav_order: 2
 ---
 # Install Git on Windows
 
