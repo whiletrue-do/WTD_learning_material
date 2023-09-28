@@ -23,8 +23,3 @@ We're just starting out but hope that this will grow into a vibrant supportive c
 4. **Events**: Stay updated with our calendar of webinars, meetups, and special events.
 
 5. **Projects**: Collaborate with community members on exciting projects or showcase your own.
-
-## Contents
-
-* [Setting Up Your Environment](00_setting_up_your_environment/README.md)
-* [Git and GitHub](01_git_and_GitHub/README.md)
