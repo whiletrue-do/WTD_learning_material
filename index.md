@@ -1,6 +1,9 @@
 ---
+layout: default
 title: Home
-layout: home
+nav_order: 1
+description: "Landing page for WTD Docs"
+permalink: /
 ---
 
 # WTD Learning Material
