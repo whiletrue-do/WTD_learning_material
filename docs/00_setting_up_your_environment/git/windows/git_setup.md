@@ -1,3 +1,8 @@
+---
+layout: default
+title: Windows
+parent: Installing git
+---
 # Install Git on Windows
 
 Git for Windows provides a BASH emulation used to run Git from the command line. It also includes graphical interfaces Git GUI and Gitk to manage Git repositories.

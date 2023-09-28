@@ -1,3 +1,9 @@
+---
+layout: default
+title: linux & Mac
+parent: Installing git
+---
+
 # Setting up git on Linux and Mac
 
 ## Install Git on Linux
