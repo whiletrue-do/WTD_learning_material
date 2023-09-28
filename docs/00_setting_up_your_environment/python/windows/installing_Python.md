@@ -1,5 +1,9 @@
-Certainly! Here's a Markdown guide for installing Python on Windows:
-
+---
+layout: default
+title: Windows
+parent: Installing python
+grand_parent: Setting up your environment
+nav_order: 2
 ---
 
 # Installing Python on Windows
@@ -53,6 +57,3 @@ This guide will walk you through two methods of installing Python on Windows:
    - Open a new terminal in VSCode by clicking on `Terminal > New Terminal`.
    - In the terminal, type `python --version` and press Enter. You should see the version of Python you installed.
 
----
-
-That's it! You now have Python installed on your Windows machine either through the official website or via VSCode.

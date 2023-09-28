@@ -1,4 +1,10 @@
-# Installing Python on Mac & Linux
+---
+layout: default
+title: linux & Mac
+parent: Installing python
+grand_parent: Setting up your environment
+nav_order: 1
+---
 
 ## Installing Python on macOS
 
