@@ -2,7 +2,6 @@
 layout: default
 title: git basics
 parent: git
-grand_parent: git
 nav_order: 1
 ---
 
