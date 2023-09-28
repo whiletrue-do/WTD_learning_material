@@ -1,3 +1,11 @@
+---
+layout: default
+title: git basics
+parent: git
+grand_parent: git
+nav_order: 1
+---
+
 # Getting Started with Git
 
 Welcome to the world of Git! This guide will take you step by step through Git's foundational commands.
