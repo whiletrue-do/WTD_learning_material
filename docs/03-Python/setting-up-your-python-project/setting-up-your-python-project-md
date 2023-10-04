@@ -1,0 +1,64 @@
+---
+title: Setting up your python project
+layout: default
+parent: Python Intro
+has_children: true
+nav_order: 1
+---
+
+
+# Why Good Project Setup Matters in Python
+
+## Overview
+
+Setting up your Python project in an organised and structured manner is not just a matter of aesthetics; it's about efficiency, collaboration, and sustainability. This brief explains why a well-structured project setup is crucial for any Python developer.
+
+## Benefits of Good Project Setup
+
+### 1. Code Maintainability
+
+- **Easier Debugging**: A well-organised codebase makes it easier to locate issues and apply fixes.
+  
+- **Upgradability**: Structured code is easier to extend and upgrade.
+
+### 2. Collaboration
+
+- **Onboarding**: New team members can understand and start contributing to the project more quickly.
+  
+- **Code Reviews**: A clean structure makes code reviews more straightforward, reducing the likelihood of bugs slipping through.
+
+### 3. Reusability
+
+- **Modular Code**: A well-structured project promotes modular code, which can be reused in other projects.
+  
+- **Package Distribution**: It's easier to package and distribute your project when it's well-organised.
+
+### 4. Testing and Deployment
+
+- **Automated Testing**: A clean project setup simplifies the process of implementing automated tests.
+  
+- **Continuous Integration**: Well-organised projects are easier to integrate into CI/CD pipelines.
+
+## Key Components of a Good Setup
+
+- **README**: Always include a README file to explain what your project is about, how to set it up, and how to use it.
+  
+- **`requirements.txt` or `setup.py`**: Specify your project's dependencies to make setup reproducible. Or both as they can play a part in your CI/CD life cycle.
+  
+- **Directory Structure**: Use a logical folder structure like the following:
+
+  ``` text
+  my_project/
+  ├── src/
+  ├── tests/
+  ├── venv/
+  ├── README.md
+  ├── requirements.txt
+  └── setup.py
+  ```
+
+- **Version Control**: Use a version control system like Git to track changes and collaborate with others.
+
+## Recap
+
+Good project setup is not just a "nice-to-have"; it's a "must-have" for any serious Python development work. It makes your code more maintainable, simplifies collaboration, and streamlines testing and deployment.
