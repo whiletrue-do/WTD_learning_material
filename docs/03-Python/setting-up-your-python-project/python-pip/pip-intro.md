@@ -3,7 +3,7 @@ layout: default
 title: Python VENV
 parent: Setting up your python project
 grandparent: Python Intro
-nav_order: 2
+nav_order: 3
 ---
 
 # Understanding and Using `pip` for Package Management
