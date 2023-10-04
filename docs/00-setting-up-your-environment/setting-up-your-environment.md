@@ -1,7 +1,7 @@
 ---
 title: Setting up your environment
 layout: default
-nav_order: 2.5
+nav_order: 1
 has_children: true
 ---
 

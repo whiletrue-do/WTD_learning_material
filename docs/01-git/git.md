@@ -2,6 +2,6 @@
 title: Git
 layout: default
 has_children: true
-nav_order: 3.5
+nav_order: 2
 ---
 

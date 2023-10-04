@@ -2,5 +2,5 @@
 title: GitHub
 layout: default
 has_children: true
-nav_order: 4.5
+nav_order: 3
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: Python VENV
 parent: Setting up your python project
-grand_parent: Python Intro
+grand_parent: Python intro
 nav_order: 2
 ---
 

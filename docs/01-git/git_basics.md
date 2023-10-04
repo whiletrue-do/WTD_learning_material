@@ -2,7 +2,7 @@
 layout: default
 title: git basics
 parent: Git
-nav_order: 1
+nav_order: 2.1
 ---
 
 # Getting Started with Git
