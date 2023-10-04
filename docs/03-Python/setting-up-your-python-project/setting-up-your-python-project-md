@@ -15,29 +15,22 @@ Setting up your Python project in an organised and structured manner is not just
 
 ## Benefits of Good Project Setup
 
-### 1. Code Maintainability
+### Code Maintainability
 
-- **Easier Debugging**: A well-organised codebase makes it easier to locate issues and apply fixes.
-  
-- **Upgradability**: Structured code is easier to extend and upgrade.
+- Easier Debugging
+- Upgradability
 
-### 2. Collaboration
+### Collaboration
 
-- **Onboarding**: New team members can understand and start contributing to the project more quickly.
-  
-- **Code Reviews**: A clean structure makes code reviews more straightforward, reducing the likelihood of bugs slipping through.
+- Onboarding
+- Code Reviews
+### Reusability
 
-### 3. Reusability
-
-- **Modular Code**: A well-structured project promotes modular code, which can be reused in other projects.
-  
-- **Package Distribution**: It's easier to package and distribute your project when it's well-organised.
-
-### 4. Testing and Deployment
-
-- **Automated Testing**: A clean project setup simplifies the process of implementing automated tests.
-  
-- **Continuous Integration**: Well-organised projects are easier to integrate into CI/CD pipelines.
+- Modular Code
+- Package Distribution
+- Testing and Deployment
+- Automated Testing
+- Continuous Integration
 
 ## Key Components of a Good Setup
 
