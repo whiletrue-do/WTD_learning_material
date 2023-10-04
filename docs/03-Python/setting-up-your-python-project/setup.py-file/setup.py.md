@@ -2,7 +2,7 @@
 layout: default
 title: The setup.py file
 parent: Setting up your python project
-grandparent: Python Intro
+grand_parent: Python Intro
 nav_order: 4
 ---
 
