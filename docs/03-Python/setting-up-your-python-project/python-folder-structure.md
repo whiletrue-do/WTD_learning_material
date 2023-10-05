@@ -1,6 +1,6 @@
 ---
 layout: default
-title: python folder structure
+title: Python folder structure
 parent: Setting up your python project
 grand_parent: Python intro
 nav_order: 1
