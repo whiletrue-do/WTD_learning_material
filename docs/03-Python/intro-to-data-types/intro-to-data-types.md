@@ -6,7 +6,7 @@ has_children: true
 nav_order: 3
 ---
 
-# Lesson: Understanding Basic Data Types in Python
+# Understanding Basic Data Types in Python
 
 ## Objective
 
