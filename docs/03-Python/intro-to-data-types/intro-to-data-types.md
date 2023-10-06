@@ -1,5 +1,5 @@
 ---
-title: Setting up your python project
+title: Intro to Data types
 layout: default
 parent: Python intro
 has_children: true
