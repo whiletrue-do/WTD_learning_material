@@ -2,7 +2,6 @@
 title: Python variables
 layout: default
 parent: Python intro
-has_children: true
 nav_order: 3
 ---
 
