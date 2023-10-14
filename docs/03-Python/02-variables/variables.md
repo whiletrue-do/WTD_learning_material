@@ -2,7 +2,7 @@
 title: Python variables
 layout: default
 parent: Python intro
-nav_order: 3
+nav_order: 2
 ---
 
 # Understanding Variables in Python
