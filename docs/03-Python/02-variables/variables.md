@@ -1,7 +1,7 @@
 ---
 title: Python variables
 layout: default
-parent: Python intro
+parent: Python
 nav_order: 2
 ---
 

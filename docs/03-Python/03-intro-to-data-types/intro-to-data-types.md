@@ -1,7 +1,7 @@
 ---
 title: Intro to Data types
 layout: default
-parent: Python intro
+parent: Python
 nav_order: 3
 ---
 

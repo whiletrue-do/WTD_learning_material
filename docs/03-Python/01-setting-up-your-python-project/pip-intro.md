@@ -1,8 +1,8 @@
 ---
 layout: default
-title: pip intro
+title: pip
 parent: Setting up your python project
-grand_parent: Python intro
+grand_parent: Python
 nav_order: 3
 ---
 
