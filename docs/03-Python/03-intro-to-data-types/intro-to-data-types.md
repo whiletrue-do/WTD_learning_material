@@ -2,7 +2,7 @@
 title: Intro to Data types
 layout: default
 parent: Python
-nav_order: 2
+nav_order: 3
 ---
 
 # Understanding Basic Data Types in Python
