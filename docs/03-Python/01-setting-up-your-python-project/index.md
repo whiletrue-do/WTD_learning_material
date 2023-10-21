@@ -1,7 +1,7 @@
 ---
 title: Setting up your python project
 layout: default
-parent: Python intro
+parent: Python
 has_children: true
 nav_order: 1
 ---
