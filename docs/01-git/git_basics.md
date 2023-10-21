@@ -9,7 +9,7 @@ nav_order: 2.1
 
 Welcome to the world of Git! This guide will take you step by step through Git's foundational commands.
 
-***NOTE***: Ensure you have `git` already installed. If not, please see [git setup here](../00_setting_up_your_environment/git). For Windows users, we recommend using Git Bash to run the code snippets.
+***NOTE***: Ensure you have `git` already installed. If not, please see the `git` setup guide under `setting up your environment`. For Windows users, we recommend using Git Bash to run the code snippets.
 
 ## Setting Up Your First Git Repository
 
